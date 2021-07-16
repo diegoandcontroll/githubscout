@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GithubScout" title="GithubScout" src=".src/assets/logo.png"/>
+  <img alt="GithubScout" title="GithubScout" src="src/assets/logo.svg"/>
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="GithubScout" src=".github/mock1.jpg" width="100%">
+  <img alt="GithubScout" src=".github/mock1.png" width="100%">
 </p>
 
 ## ✨ Technologies
@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 GithubScout is an app to search github repositories and list some information
 
 <p align="center">
-  <img alt="Letmeask" src=".github/mock2.jpg" width="100%">
+  <img alt="GithubScout" src=".github/mock2.png" width="100%">
 </p>
 
 ## 🚀 How to run
