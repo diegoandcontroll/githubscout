@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GithubScout" title="GithubScout" src="src/assets/logo.svg" with="200"/>
+  <img alt="GithubScout" title="GithubScout" src="src/assets/logo.svg" with="200px"/>
 </h1>
 
 <p align="center">
