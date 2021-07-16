@@ -47,6 +47,6 @@ You can now access [`localhost:3000`](http://localhost:3000) from your browser.
 
 ## 💻 Project in Execution
 
-- [Click here!]()
+- [Click here!](https://githubscout.netlify.app/)
 
 ---
